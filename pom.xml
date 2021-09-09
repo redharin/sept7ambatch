@@ -33,8 +33,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
-						<username></username>
-						<password></password>
+						<username>redharinaug21</username>
+						<password>Hasr@143</password>
 						<applicationName>gitspetbatch</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
