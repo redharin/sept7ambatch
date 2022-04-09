@@ -35,5 +35,6 @@ payload]]></ee:set-payload>
 </flow>
 	<flow name="gitspetbatchFlow1" doc:id="1ee72825-099b-4fac-b1ce-f87f410640ab" >
 		<logger level="INFO" doc:name="Logger" doc:id="c9065e2d-4d91-4877-98e1-c31b7075a9b3" />
+		<set-payload value="#[payload]" doc:name="Set Payload" doc:id="8dcba6bc-1176-42f7-8794-48c3b552df55" />
 	</flow>
 </mule>
