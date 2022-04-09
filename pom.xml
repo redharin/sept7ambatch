@@ -36,7 +36,7 @@
 						<username>redharinmarch22</username>
 						<password>Hasr@143</password>
 						<applicationName>mule7amapril</applicationName>
-						<environment>DEV</environment>
+						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<objectStoreV2>true</objectStoreV2>
